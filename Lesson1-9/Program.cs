@@ -26,6 +26,3 @@ int n = int.Parse(Console.ReadLine());
             }
         Console.WriteLine($"Третья цифра {dig3 % 10}");
         }
-    
-        
-    
